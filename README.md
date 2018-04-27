@@ -5,7 +5,7 @@ The algorithms consists of <b>vectorized</b> implementation of various kind of c
 
 Some of the algorithms -
 <ul>
-<li> Linear Regression with linear and non-linear decision boundaries</li>
-<li> Regularized Logistic Regression for linear and non-linear decision boundaries</li>
+<li> <b>Linear Regression</b> with linear and non-linear decision boundaries</li>
+<li> <b>Regularized Logistic Regression</b> for linear and non-linear decision boundaries</li>
 </ul>
 
