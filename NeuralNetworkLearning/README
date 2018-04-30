@@ -3,6 +3,6 @@ Steps :
 1. Random initialization for weight matrices for the layers.
 2. Forward Propagation for computing the regularized cost function. Function computation at each neural unit.
 3. Using backpropagation, identifying errors and gradients for weight matrices.
-4. Tested gradients using numeric computation of calculating each gradient.
+4. Tested gradients by comparing them with its numeric computation variant.
 5. Used 50 iterations to fit the model by usung an advanced optimizing algorithm fmincg.
 6. Current training accuracy is 96%. It can be improved by increasing the number of iterations and tweaking regularization parameter.
