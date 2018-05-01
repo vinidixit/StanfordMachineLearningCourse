@@ -15,7 +15,7 @@ Some of the uploaded implementations are -
 <li> <b>Linear Regression</b> with linear and non-linear decision boundaries</b></li>
 <li> <b>Regularized Logistic Regression</b> for linear and non-linear decision boundaries</b></li>
 <li> <b>One-vs-all multiclass logistic regression classifier</b> for image classification (with 97% training accuracy)</li>
-<li> <b>Non-linear Neural Network model</b> for image classification (with 96% training accuracy)</li>
+<li> <b>Three layer Neural Network model</b> for image classification (with 96% training accuracy)</li>
 <li> <b>Backpropagation algorithm</b> implementation for NN learning</li>
 </ul>
 
